@@ -2,7 +2,7 @@
 ### Im Savanna Wicaksono call me savanna
 A junior high school student interested in programming
 
-I like playing games since I was in 2nd grade and from there I know about IT, and now I can make a website. My future goal is, I want to be a developer like all developers, and IT has been my favorite subject since I was in 4th grade
+I like playing games since I was in 2nd grade and from there I know about IT!
 
 ![Savwicak's GitHub stats](https://github-readme-stats.vercel.app/api?username=savwicak&show_icons=true&bg_color=000&text_color=fff&icon_color=7DB9FF&title_color=7DB9FF)
 
