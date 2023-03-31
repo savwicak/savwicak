@@ -1,4 +1,21 @@
-### Hi there 👋
+# 🐻 Hi there!
+### Im Savanna Wicaksono call me savanna
+A junior high school student interested in programming
+
+I like playing games since I was in 2nd grade and from there I know about IT, and now I can make a website. My future goal is, I want to be a developer like all developers, and IT has been my favorite subject since I was in 4th grade
+
+![Savwicak's GitHub stats](https://github-readme-stats.vercel.app/api?username=savwicak&show_icons=true&bg_color=000&text_color=fff&icon_color=7DB9FF&title_color=7DB9FF)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Contact Me📞
+<a href="dribbble.com/savwicak">Dribbble </a>
+
+<a href="https://scratch.mit.edu/users/Savannaa10">Scratch </a>
+
+
+
 
 <!--
 **savwicak/savwicak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
