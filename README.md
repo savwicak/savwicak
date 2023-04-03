@@ -4,8 +4,6 @@ A junior high school student interested in programming
 
 I like playing games since I was in 2nd grade and from there I know about IT!
 
-![Savwicak's GitHub stats](https://github-readme-stats.vercel.app/api?username=savwicak&show_icons=true&bg_color=000&text_color=fff&icon_color=7DB9FF&title_color=7DB9FF)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
