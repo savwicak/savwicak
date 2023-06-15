@@ -1,5 +1,5 @@
 # 🐻 Hi there!
-### Im Savanna Wicaksono call me savanna
+### Im Savanna W call me savanna
 A junior high school student interested in programming
 
 I like playing games since I was in 2nd grade and from there I know about IT!
