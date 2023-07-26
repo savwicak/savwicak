@@ -1,16 +1,16 @@
 # 🐻 Hi there!
 ### Im Savanna W call me savanna
-A junior high school student interested in programming
-
-I like playing games since I was in 2nd grade and from there I know about IT!
+A junior high school student interested in programming <br>
+I have liked playing games since I was in 2nd grade and from there, I know about IT <br>
+still learning several languages, and am very interested in Python! <br>
+after that maybe I'm going to learn C# or C++ and web programming or apps :D <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Contact Me📞
-<a href="dribbble.com/savwicak">Dribbble </a>
-
-<a href="https://scratch.mit.edu/users/Savannaa10">Scratch </a>
+## See Other Project! 🖥️
+<a href="dribbble.com/savwicak ">Dribbble |</a>
+<a href="https://scratch.mit.edu/users/Savannaa10 ">Scratch |</a>
 
 
 
