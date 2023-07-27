@@ -1,4 +1,4 @@
-# 🐻 Hi there!
+# 🍃 Hi there!
 ### Im Savanna W call me savanna
 A junior high school student interested in programming <br>
 I have liked playing games since I was in 2nd grade and from there, I know about IT <br>
