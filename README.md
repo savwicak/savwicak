@@ -8,7 +8,7 @@ still learning several languages, and am very interested in Python! <br>
 
 
 ## See Other Project! 🖥️
-<a href="dribbble.com/savwicak ">Dribbble |</a>
+<a href="https://dribbble.com/savwicak">Dribbble |</a>
 <a href="https://scratch.mit.edu/users/Savannaa10 ">Scratch |</a>
 
 
