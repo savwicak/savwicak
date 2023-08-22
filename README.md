@@ -3,7 +3,6 @@
 A junior high school student interested in programming <br>
 I have liked playing games since I was in 2nd grade and from there, I know about IT <br>
 still learning several languages, and am very interested in Python! <br>
-after that maybe I'm going to learn C# or C++ and web programming or apps :D <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
