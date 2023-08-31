@@ -4,7 +4,7 @@ A junior high school student interested in programming <br>
 I have liked playing games since I was in 2nd grade and from there, I know about IT <br>
 still learning several languages, and am very interested in Python! <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&layout=compact)
 
 
 ## See Other Project! 🖥️
