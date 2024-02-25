@@ -7,9 +7,6 @@ still learning several languages, and am very interested in Python! <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&layout=compact)
 
 
-## See Other Project! 🖥️
-<a href="https://dribbble.com/savwicak">Dribbble |</a>
-<a href="https://scratch.mit.edu/users/Savannaa10 ">Scratch |</a>
 
 
 
