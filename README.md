@@ -7,7 +7,7 @@ still learning several languages, and am very interested in Python! <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwicak&layout=compact)
 
 ## random
-nguli dulu bang
+asik web isc dah kelar 😎😎😎
 
 
 
