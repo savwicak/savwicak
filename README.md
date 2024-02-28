@@ -2,6 +2,7 @@
 <h3 align="center">A Game and Website developer student</h3>
 <p align="center">Currently want to make a porfolio website i hope i can done it soon 😔</p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savwicak&theme=city_lights&hide_border=true" alt="savwicak" /></p>
+<p align="CENTER"> <img src="https://komarev.com/ghpvc/?username=savwicak&label=Profile%20views&color=0e75b6&style=flat" alt="savwicak" /> </p>
 
 
 <h3 align="left">Languages and Tools</h3>
@@ -17,8 +18,6 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savwicak&label=Profile%20views&color=0e75b6&style=flat" alt="savwicak" /> </p>
 <!--
 **savwicak/savwicak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
