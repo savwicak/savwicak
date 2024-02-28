@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm savwicak 🍵</h1>
-<h3 align="left">A Game and Website developer student</h3>
-<p align="left">Currently want to make a porfolio website i hope i can done it soon 😔</p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savwicak&theme=city_lights&hide_border=true" alt="savwicak" /></p>
+<h3 align="center">A Game and Website developer student</h3>
+<p align="center">Currently want to make a porfolio website i hope i can done it soon 😔</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savwicak&theme=city_lights&hide_border=true" alt="savwicak" /></p>
 
 
 <h3 align="left">Languages and Tools</h3>
