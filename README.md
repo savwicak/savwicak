@@ -2,7 +2,7 @@
 <p>👾 Game and Website developer student</p>
 <p>🪅 Currently making application using Flutter and Firebase</p>
 
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20808&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical"/>
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20808&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark"/>
 
 
 <h2>Tools and Languages</h3>
@@ -10,8 +10,8 @@
   <!-- Design Tools -->
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jitter-%238C4FFF.svg?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jitter-%238C4FFF.svg?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p>
