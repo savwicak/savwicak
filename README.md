@@ -1,6 +1,8 @@
 <h1>hai kawan, ak savwicak</h1>
-<p>⌚ Game and Website developer student</p>
+<p>👾 Game and Website developer student</p>
 <p>🪅 Currently making application using Flutter and Firebase</p>
+
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20808&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical"/>
 
 
 <h2>Tools and Languages</h3>
