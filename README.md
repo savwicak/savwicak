@@ -1,4 +1,4 @@
-<h1>hai kawan, ak savwicak 🎀</h1>
+<h1>hai kawan, ak savwicak 🍪</h1>
 <table border="0">
 <tr border="0">
   <td>
@@ -7,7 +7,7 @@
   
   ```txt
   👾 Game & application developer studentㅤㅤㅤ
-  🍃 Currently building apps using Flutter & Firebaseㅤㅤㅤㅤㅤㅤㅤ
+  🍃 Currently building apps using Flutter & Firebaseㅤㅤㅤ
   🪣 Exporing games and cool websites :p
   ```
   ㅤㅤㅤㅤㅤㅤㅤ
