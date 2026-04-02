@@ -1,9 +1,24 @@
-<h1>hai kawan, ak savwicak</h1>
-<p>👾 Game and Website developer student</p>
-<p>🪅 Currently making application using Flutter and Firebase</p>
-
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20808&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark"/>
-
+<h1>hai kawan, ak savwicak 🎀</h1>
+<table border="0">
+<tr border="0">
+  <td>
+  
+  ## 💾 Save File Slot #1
+  
+  ```txt
+  👾 Game & application developer student
+  🍃 Currently building apps using Flutter & Firebase
+  🪣 Exporing games and cool websites :p
+  ```
+  
+  </td>
+  <td>
+  
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20808&api_domain=hackatime.hackclub.com&theme=codeSTACKr&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6"/>
+  
+  </td>
+</tr>
+</table>
 
 <h2>Tools and Languages</h3>
 <p>
