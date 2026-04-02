@@ -6,8 +6,8 @@
   ## 💾 Save File Slot #1
   
   ```txt
-  👾 Game & application developer student
-  🍃 Currently building apps using Flutter & Firebase
+  👾 Game & application developer studentㅤㅤㅤ
+  🍃 Currently building apps using Flutter & Firebaseㅤㅤㅤㅤㅤㅤㅤ
   🪣 Exporing games and cool websites :p
   ```
   ㅤㅤㅤㅤㅤㅤㅤ
