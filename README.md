@@ -1,14 +1,14 @@
-<h1>hai kawan, ak savwicak 🍪</h1>
+<h1>hai kawan, aku savwicak</h1>
 <table border="0">
 <tr border="0">
   <td>
   
-  ## 💾 Save File Slot #1
+  ## Save File Slot #1
   
   ```txt
-  👾 Game & application developer studentㅤㅤㅤ
-  🍃 Currently building apps using Flutter & Firebaseㅤㅤㅤ
-  🪣 Exporing games and cool websites :p
+  - Game & application developer studentㅤㅤㅤ
+  - Currently building apps using Flutter & Firebaseㅤㅤㅤ
+  - Exporing games and cool websites :p
   ```
   ㅤㅤㅤㅤㅤㅤㅤ
   </td>
